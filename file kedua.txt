@@ -1,2 +1,9 @@
 --file kedua
 learning by doing
+=========================
+Perubahan di hari kedua:
+1
+2
+3
+4
+end of version 1.0
